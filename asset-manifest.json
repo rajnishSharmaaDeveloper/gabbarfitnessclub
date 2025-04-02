@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/gabbarfitnessclub/static/css/main.de31fb63.chunk.css",
+    "main.js": "/gabbarfitnessclub/static/js/main.841da22e.chunk.js",
+    "main.js.map": "/gabbarfitnessclub/static/js/main.841da22e.chunk.js.map",
+    "runtime-main.js": "/gabbarfitnessclub/static/js/runtime-main.561724af.js",
+    "runtime-main.js.map": "/gabbarfitnessclub/static/js/runtime-main.561724af.js.map",
+    "static/js/2.4cbe7d39.chunk.js": "/gabbarfitnessclub/static/js/2.4cbe7d39.chunk.js",
+    "static/js/2.4cbe7d39.chunk.js.map": "/gabbarfitnessclub/static/js/2.4cbe7d39.chunk.js.map",
+    "index.html": "/gabbarfitnessclub/index.html",
+    "precache-manifest.1cf6fed54786563c9fc937830d6ea3a9.js": "/gabbarfitnessclub/precache-manifest.1cf6fed54786563c9fc937830d6ea3a9.js",
+    "service-worker.js": "/gabbarfitnessclub/service-worker.js",
+    "static/css/main.de31fb63.chunk.css.map": "/gabbarfitnessclub/static/css/main.de31fb63.chunk.css.map",
+    "static/js/2.4cbe7d39.chunk.js.LICENSE.txt": "/gabbarfitnessclub/static/js/2.4cbe7d39.chunk.js.LICENSE.txt",
+    "static/media/bgVideo.mp4": "/gabbarfitnessclub/static/media/bgVideo.ae250877.mp4",
+    "static/media/classFour.jpg": "/gabbarfitnessclub/static/media/classFour.dd1df8f4.jpg",
+    "static/media/classOne.jpg": "/gabbarfitnessclub/static/media/classOne.5a6c841c.jpg",
+    "static/media/classThree.jpg": "/gabbarfitnessclub/static/media/classThree.3d605f68.jpg",
+    "static/media/classTwo.jpg": "/gabbarfitnessclub/static/media/classTwo.a6ebee97.jpg",
+    "static/media/contactBg.jpg": "/gabbarfitnessclub/static/media/contactBg.31cb05f3.jpg",
+    "static/media/gymOverlayBg.jpg": "/gabbarfitnessclub/static/media/gymOverlayBg.f042c2ac.jpg",
+    "static/media/scheduleBg.jpg": "/gabbarfitnessclub/static/media/scheduleBg.02e36482.jpg",
+    "static/media/trainerOne.jpg": "/gabbarfitnessclub/static/media/trainerOne.7c2ab25d.jpg",
+    "static/media/trainerThree.jpg": "/gabbarfitnessclub/static/media/trainerThree.81e56a6d.jpg",
+    "static/media/trainerTwo.jpg": "/gabbarfitnessclub/static/media/trainerTwo.db6c1644.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.561724af.js",
+    "static/js/2.4cbe7d39.chunk.js",
+    "static/css/main.de31fb63.chunk.css",
+    "static/js/main.841da22e.chunk.js"
+  ]
+}
