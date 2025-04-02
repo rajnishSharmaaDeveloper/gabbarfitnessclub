@@ -7,7 +7,7 @@
   span {
     color: #ed563b;
   }
-`;var b=()=>Object(l.b)("h2",{css:o},"TRAINING ",Object(l.b)("span",null,"STUDIO"));const d=l.a`
+`;var b=()=>Object(l.b)("h2",{css:o},"Gabbar Fitness ",Object(l.b)("span",null,"Club"));const d=l.a`
   text-decoration: none;
   display: inline-block;
   font-size: 13px;
@@ -121,7 +121,7 @@
   text-align: center;
   color: #fff;
   p {
-    font-size: 17px;
+    font-size: 10px;
     line-height: 1;
     font-weight: 900;
     letter-spacing: 1.2px;
@@ -143,10 +143,10 @@
       font-size: 42px;
     }
   }
-`;var I=()=>Object(l.b)("div",{css:M,className:"info"},Object(l.b)("p",null,"WORK HARDER, GET STRONGER"),Object(l.b)("h1",null,"EASY WITH OUR ",Object(l.b)("span",null,"GYM")),Object(l.b)(m,{text:"BECOME A MEMBER"}));const T=l.a`
+`;var I=()=>Object(l.b)("div",{css:M,className:"info"},Object(l.b)("p",null,"WORK HARDER, GET STRONGER"),Object(l.b)("h1",null,"GABBAR FITNESS",Object(l.b)("span",null," CLUB")),Object(l.b)(m,{text:"BECOME A MEMBER"}));const T=l.a`
   width: 100%;
   height: 100vh;
-`;var E=()=>Object(l.b)("section",{css:T,className:"main",id:"home"},Object(l.b)(N,null),Object(l.b)(O,null),Object(l.b)(I,null),Object(l.b)(v,null)),C=i(7),D=i.n(C);const R=l.a`
+`;var C=()=>Object(l.b)("section",{css:T,className:"main",id:"home"},Object(l.b)(N,null),Object(l.b)(O,null),Object(l.b)(I,null),Object(l.b)(v,null)),E=i(7),D=i.n(E);const R=l.a`
   margin: 20px 0;
 `;var S=()=>Object(l.b)("img",{css:R,src:D.a});const k=l.a`
   color: #232d39;
@@ -156,7 +156,7 @@
   span {
     color: #ed563b;
   }
-`;var Q=()=>Object(l.b)("h2",{css:k},"CHOOSE ",Object(l.b)("span",null,"PROGRAM"));const B=l.a`
+`;var B=()=>Object(l.b)("h2",{css:k},"CHOOSE ",Object(l.b)("span",null,"PROGRAM"));const Q=l.a`
   color: #7a7a7a;
   font-size: 15px;
   line-height: 1.7;
@@ -166,7 +166,7 @@
       display: none;
     }
   }
-`;var G=()=>Object(l.b)("p",{css:B},"Training Studio is free CSS template for gyms and fitness centers. You are"," ",Object(l.b)("br",null),"allowed to use this layout for your business website."),Y=i(8),z=i.n(Y);const U=l.a`
+`;var G=()=>Object(l.b)("p",{css:Q},"Training Studio is free CSS template for gyms and fitness centers. You are"," ",Object(l.b)("br",null),"allowed to use this layout for your business website."),Y=i(8),z=i.n(Y);const U=l.a`
   width: 100%;
   max-width: 47%;
   display: flex;
@@ -227,11 +227,11 @@
       align-items: center;
     }
   }
-`;var F=()=>Object(l.b)("div",{css:W,className:"gymProgram"},Object(l.b)(Q,null),Object(l.b)(S,null),Object(l.b)(G,null),Object(l.b)(x,null,Object(l.b)(Z,{title:"Basic Fitness",desc:"Please do not re-distribute this template ZIP file on any template collection website. This is not allowed."}),Object(l.b)(Z,{title:"Advanced Muscle Course",desc:"You may want to browse through Digital Marketing or Corporate HTML CSS templates on our website."}),Object(l.b)(Z,{title:"New Gym Training",desc:"If you wish to support TemplateMo website via PayPal, please feel free to contact us. We appreciate it a lot."}),Object(l.b)(Z,{title:"Yoga Training",desc:"This template is built on Bootstrap v4.3.1 framework. It is easy to adapt the columns and sections."}),Object(l.b)(Z,{title:"Basic Muscle Course",desc:"Credit goes to Pexels website for images and video background used in this HTML template."}),Object(l.b)(Z,{title:"Body Building Course",desc:"Suspendisse fringilla et nisi et mattis. Curabitur sed finibus nisi. Integer nibh sapien, vehicula et auctor."}))),H=i(9),J=i.n(H);const P=l.a`
+`;var F=()=>Object(l.b)("div",{css:W,className:"gymProgram"},Object(l.b)(B,null),Object(l.b)(S,null),Object(l.b)(G,null),Object(l.b)(x,null,Object(l.b)(Z,{title:"Basic Fitness",desc:"Please do not re-distribute this template ZIP file on any template collection website. This is not allowed."}),Object(l.b)(Z,{title:"Advanced Muscle Course",desc:"You may want to browse through Digital Marketing or Corporate HTML CSS templates on our website."}),Object(l.b)(Z,{title:"New Gym Training",desc:"If you wish to support TemplateMo website via PayPal, please feel free to contact us. We appreciate it a lot."}),Object(l.b)(Z,{title:"Yoga Training",desc:"This template is built on Bootstrap v4.3.1 framework. It is easy to adapt the columns and sections."}),Object(l.b)(Z,{title:"Basic Muscle Course",desc:"Credit goes to Pexels website for images and video background used in this HTML template."}),Object(l.b)(Z,{title:"Body Building Course",desc:"Suspendisse fringilla et nisi et mattis. Curabitur sed finibus nisi. Integer nibh sapien, vehicula et auctor."}))),J=i(9),H=i.n(J);const P=l.a`
   width: 100%;
   padding: 120px 0;
   text-align: center;
-  background: url('${J.a}') no-repeat center/cover;
+  background: url('${H.a}') no-repeat center/cover;
   h2 {
     color: #fff;
     font-weight: 900;
@@ -520,7 +520,7 @@
     max-width: 47%;
     margin: 14px 0;
   }
-`;var ve=({title:e,name:t,desc:i,img:a})=>Object(l.b)("div",{css:Ae,className:"card"},Object(l.b)("img",{src:a,alt:"trainer"}),Object(l.b)("h5",null,e),Object(l.b)("h3",null,t),Object(l.b)("p",null,i),Object(l.b)(fe,null)),ye=i(15),Ne=i.n(ye),Me=i(16),Ie=i.n(Me),Te=i(17),Ee=i.n(Te);const Ce=l.a`
+`;var ve=({title:e,name:t,desc:i,img:a})=>Object(l.b)("div",{css:Ae,className:"card"},Object(l.b)("img",{src:a,alt:"trainer"}),Object(l.b)("h5",null,e),Object(l.b)("h3",null,t),Object(l.b)("p",null,i),Object(l.b)(fe,null)),ye=i(15),Ne=i.n(ye),Me=i(16),Ie=i.n(Me),Te=i(17),Ce=i.n(Te);const Ee=l.a`
   width: 100%;
   padding: 120px 0;
   text-align: center;
@@ -566,7 +566,7 @@
       max-width: 780px;
     }
   }
-`;var De=()=>Object(l.b)("section",{css:Ce,className:"trainers",id:"trainers"},Object(l.b)("h2",null,"EXPERT ",Object(l.b)("span",null,"TRAINERS")),Object(l.b)(S,null),Object(l.b)("p",null,"Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed viverra"," ",Object(l.b)("br",null),"ipsum dolor, ultricies fermentum massa consequat eu."),Object(l.b)(x,null,Object(l.b)(ve,{title:"Strength Trainer",name:"Bret D. Bowers",desc:"Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel.",img:Ne.a}),Object(l.b)(ve,{title:"Muscle Trainer",name:"Hector T. Daigl",desc:"Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel.",img:Ie.a}),Object(l.b)(ve,{title:"Power Trainer",name:"Paul D. Newman",desc:"Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel.",img:Ee.a})));const Re=l.a`
+`;var De=()=>Object(l.b)("section",{css:Ee,className:"trainers",id:"trainers"},Object(l.b)("h2",null,"EXPERT ",Object(l.b)("span",null,"TRAINERS")),Object(l.b)(S,null),Object(l.b)("p",null,"Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed viverra"," ",Object(l.b)("br",null),"ipsum dolor, ultricies fermentum massa consequat eu."),Object(l.b)(x,null,Object(l.b)(ve,{title:"Strength Trainer",name:"Bret D. Bowers",desc:"Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel.",img:Ne.a}),Object(l.b)(ve,{title:"Muscle Trainer",name:"Hector T. Daigl",desc:"Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel.",img:Ie.a}),Object(l.b)(ve,{title:"Power Trainer",name:"Paul D. Newman",desc:"Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel.",img:Ce.a})));const Re=l.a`
   width: 100%;
   max-width: 50%;
   min-height: 60vh;
@@ -580,12 +580,12 @@
     max-width: 100%;
     height: 60vh;
   }
-`;var Se=()=>Object(l.b)("div",{css:Re,className:"mapouter"},Object(l.b)("iframe",{id:"gmap_canvas",src:"https://maps.google.com/maps?q=Av.%20L%C3%BAcio%20Costa&t=&z=13&ie=UTF8&iwloc=&output=embed"})),ke=i(18),Qe=i.n(ke);const Be=l.a`
+`;var Se=()=>Object(l.b)("div",{css:Re,className:"mapouter"},Object(l.b)("iframe",{id:"gmap_canvas",src:"https://maps.google.com/maps?q=Av.%20L%C3%BAcio%20Costa&t=&z=13&ie=UTF8&iwloc=&output=embed"})),ke=i(18),Be=i.n(ke);const Qe=l.a`
   width: 100%;
   padding: 80px;
   min-height: 60vh;
   display: flex;
-  background: url('${Qe.a}') no-repeat center/cover;
+  background: url('${Be.a}') no-repeat center/cover;
   form {
     margin: auto;
     display: flex;
@@ -623,7 +623,7 @@
       max-width: 900px;
     }
   }
-`;var Ge=({text:e})=>Object(l.b)("div",{css:Be,className:"formContainer"},Object(l.b)("form",null,Object(l.b)("input",{type:"text",placeholder:"Your Name*"}),Object(l.b)("input",{type:"text",placeholder:"Your Email*"}),Object(l.b)("input",{type:"text",placeholder:"Subject"}),Object(l.b)("textarea",{cols:"30",rows:"10",placeholder:"Message"}),Object(l.b)(m,{text:"SEND MESSAGE"})));const Ye=l.a`
+`;var Ge=({text:e})=>Object(l.b)("div",{css:Qe,className:"formContainer"},Object(l.b)("form",null,Object(l.b)("input",{type:"text",placeholder:"Your Name*"}),Object(l.b)("input",{type:"text",placeholder:"Your Email*"}),Object(l.b)("input",{type:"text",placeholder:"Subject"}),Object(l.b)("textarea",{cols:"30",rows:"10",placeholder:"Message"}),Object(l.b)(m,{text:"SEND MESSAGE"})));const Ye=l.a`
   width: 100%;
   .container {
     max-width: 100%;
@@ -651,5 +651,5 @@
       align-items: center;
     }
   }
-`;var ze=()=>Object(l.b)("section",{css:Ye,className:"contact",id:"contact"},Object(l.b)(x,null,Object(l.b)(Se,null),Object(l.b)(Ge,null)),Object(l.b)("footer",null,Object(l.b)("p",null,"Copyright \xa9 \xa9 2020 Training Studio - Designed by"," ",Object(l.b)("a",{href:"https://templatemo.com/",target:"_blank"},"TemplateMo"))));var Ue=()=>n.a.createElement("div",{className:"App"},n.a.createElement(E,null),n.a.createElement(F,null),n.a.createElement(L,null),n.a.createElement(re,null),n.a.createElement(Oe,null),n.a.createElement(De,null),n.a.createElement(ze,null));Boolean("localhost"===window.location.hostname||"[::1]"===window.location.hostname||window.location.hostname.match(/^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/));s.a.render(n.a.createElement(n.a.StrictMode,null,n.a.createElement(Ue,null)),document.getElementById("root")),"serviceWorker"in navigator&&navigator.serviceWorker.ready.then(e=>{e.unregister()}).catch(e=>{console.error(e.message)})}],[[19,1,2]]]);
-//# sourceMappingURL=main.841da22e.chunk.js.map
+`;var ze=()=>Object(l.b)("section",{css:Ye,className:"contact",id:"contact"},Object(l.b)(x,null,Object(l.b)(Se,null),Object(l.b)(Ge,null)),Object(l.b)("footer",null,Object(l.b)("p",null,"Copyright \xa9 \xa9 2020 Training Studio - Designed by"," ",Object(l.b)("a",{href:"https://templatemo.com/",target:"_blank"},"TemplateMo"))));var Ue=()=>n.a.createElement("div",{className:"App"},n.a.createElement(C,null),n.a.createElement(F,null),n.a.createElement(L,null),n.a.createElement(re,null),n.a.createElement(Oe,null),n.a.createElement(De,null),n.a.createElement(ze,null));Boolean("localhost"===window.location.hostname||"[::1]"===window.location.hostname||window.location.hostname.match(/^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/));s.a.render(n.a.createElement(n.a.StrictMode,null,n.a.createElement(Ue,null)),document.getElementById("root")),"serviceWorker"in navigator&&navigator.serviceWorker.ready.then(e=>{e.unregister()}).catch(e=>{console.error(e.message)})}],[[19,1,2]]]);
+//# sourceMappingURL=main.fc1e80f3.chunk.js.map
