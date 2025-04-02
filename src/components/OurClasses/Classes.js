@@ -16,9 +16,9 @@ const Classes = ({ text }) => {
       </h2>
       <Icon />
       <p>
-        Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed viverra
+      In the gym, you push through discomfort to grow stronger; in class, 
         <br />
-        ipsum dolor, ultricies fermentum massa consequat eu.
+        you challenge yourself with difficult topics to expand your mind.
       </p>
       <Container>
         <LinksContainer setTraining={setTraining} training={training} />

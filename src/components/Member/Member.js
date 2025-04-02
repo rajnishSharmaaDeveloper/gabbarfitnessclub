@@ -10,9 +10,11 @@ const Member = ({ text }) => (
       DON’T <span>THINK</span>, BEGIN <span>TODAY</span>!
     </h2>
     <p>
-      Ut consectetur, metus sit amet aliquet placerat, enim est ultricies
-      ligula, sit amet dapibus odio augue eget libero.
-      <br /> Morbi tempus mauris a nisi luctus imperdiet.
+      The best time to start was yesterday. The second-best time? RIGHT NOW.
+      <br /> <strong>Perfection is a trap –</strong> If you keep waiting for the right time, you'll wait forever.
+      <br /> <strong>Small steps lead to big results –</strong> Progress is made by starting, not by planning forever.
+      <br /> <strong>Failure is part of growth –</strong> Every mistake teaches a lesson, but you only learn when you begin.
+      <br /> <strong>Discipline beats motivation –</strong> You won’t always feel ready, but action builds consistency.
     </p>
     <Button text="BECOME A MEMBER" />
   </section>
@@ -38,6 +40,9 @@ const styles = css`
     font-size: 16px;
     line-height: 1.7;
     margin: 20px 0;
+    strong {
+      color: #ed563b;
+    }
   }
   @media(max-width: 850px) {
     h2{
