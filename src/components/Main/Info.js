@@ -7,7 +7,7 @@ const Info = () => (
   <div css={styles} className="info">
     <p>WORK HARDER, GET STRONGER</p>
     <h1>
-      EASY WITH OUR <span>GYM</span>
+      GABBAR FITNESS<span> CLUB</span>
     </h1>
     <Button text="BECOME A MEMBER" />
   </div>
@@ -24,7 +24,7 @@ const styles = css`
   text-align: center;
   color: #fff;
   p {
-    font-size: 17px;
+    font-size: 10px;
     line-height: 1;
     font-weight: 900;
     letter-spacing: 1.2px;
