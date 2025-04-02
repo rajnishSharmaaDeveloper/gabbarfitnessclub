@@ -18,9 +18,9 @@ const Schedule = () => {
       </h2>
       <Icon />
       <p>
-        Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed viverra
+      Consistency is key! Stay committed to your fitness journey by sticking to your schedule—each class brings you one step closer to your goals.
         <br />
-        ipsum dolor, ultricies fermentum massa consequat eu.
+        Let's make every session count!
       </p>
       <Container>
         <ScheduleLinks setDay={setDay} day={day} />
