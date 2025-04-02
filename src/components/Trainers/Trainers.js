@@ -15,27 +15,27 @@ const Trainers = () => (
     </h2>
     <Icon />
     <p>
-      Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed viverra{" "}
+    Push your limits today to redefine your strength tomorrow
       <br />
-      ipsum dolor, ultricies fermentum massa consequat eu.
+     
     </p>
     <Container>
       <TrainerCard
         title="Strength Trainer"
-        name="Bret D. Bowers"
-        desc="Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel."
+        name="Amit Sir"
+        desc="Every rep, every set, every step you take is a step closer to the best version of yourself. Trust the process, stay committed, and together, we’ll unlock your true potential."
         img={TrainerOneBg}
       />
       <TrainerCard
         title="Muscle Trainer"
-        name="Hector T. Daigl"
-        desc="Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel."
+        name="Arun Sir"
+        desc="Your journey is unique, and with every challenge, you're growing stronger. Keep pushing, stay focused, and never forget that progress is made one day at a time."
         img={TrainerTwoBg}
       />
       <TrainerCard
         title="Power Trainer"
-        name="Paul D. Newman"
-        desc="Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel."
+        name="Shilpi Ma'am"
+        desc="Success is earned through dedication, persistence, and hard work. Trust the grind, embrace the sweat, and let’s turn those goals into achievements."
         img={TrainerThreeBg}
       />
     </Container>
