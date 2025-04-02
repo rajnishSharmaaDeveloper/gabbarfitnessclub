@@ -11,31 +11,31 @@ const Results = ({ training }) => (
   <div css={styles} className="results">
     {training === "FirstClass" && (
       <Output
-        title="First Training Class"
-        info="Phasellus convallis mauris sed elementum vulputate. Donec posuere leo sed dui eleifend hendrerit. Sed suscipit suscipit erat, sed vehicula ligula. Aliquam ut sem fermentum sem tincidunt lacinia gravida aliquam nunc. Morbi quis erat imperdiet, molestie nunc ut, accumsan diam."
+        title="Warm-up (Cardio – Getting Ready) "
+        info="Just like a gym session starts with cardio to get the body ready, a class can begin with a quick recap or a fun icebreaker to engage the mind."
         img={ClassOneBg}
       />
     )}
 
     {training === "SecondClass" && (
       <Output
-        title="Second Training Class"
-        info="Integer dapibus, est vel dapibus mattis, sem mauris luctus leo, ac pulvinar quam tortor a velit. Praesent ultrices erat ante, in ultricies augue ultricies faucibus. Nam tellus nibh, ullamcorper at mattis non, rhoncus sed massa. Cras quis pulvinar eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        title="Strength Training (Main Lesson – Building Knowledge)"
+        info="This is like lifting weights—it’s the core part where students learn the main topic"
         img={ClassTwoBg}
       />
     )}
     {training === "ThirdClass" && (
       <Output
-        title="Third Training Class"
-        info="Fusce laoreet malesuada rhoncus. Donec ultricies diam tortor, id auctor neque posuere sit amet. Aliquam pharetra, augue vel cursus porta, nisi tortor vulputate sapien, id scelerisque felis magna id felis. Proin neque metus, pellentesque pharetra semper vel, accumsan a neque."
+        title="Cool-down (Application & Reflection – Retaining Knowledge)"
+        info="Just like stretching and cooling down helps muscles recover, ending a class with application exercises helps the brain absorb what was learned."
         img={ClassThreeBg}
       />
     )}
 
     {training === "FourthClass" && (
       <Output
-        title="Fourth Training Class"
-        info="Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean ultrices elementum odio ac tempus. Etiam eleifend orci lectus, eget venenatis ipsum commodo et."
+        title="Full-Body Workout (Review Everything)"
+        info="Go over key concepts from all previous classes, just like a full-body workout combines all muscle groups."
         img={ClassFourBg}
       />
     )}
