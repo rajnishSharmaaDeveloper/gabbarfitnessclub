@@ -8,8 +8,8 @@ import Form from "./Form";
 const Contact = () => (
   <section css={styles} className="contact" id="contact">
     <Container>
-      <Map />
-      <Form />
+      {/* <Map />
+      <Form /> */}
     </Container>
     <footer>
       <p>
