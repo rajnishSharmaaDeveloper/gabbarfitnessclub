@@ -227,7 +227,7 @@
       align-items: center;
     }
   }
-`;var J=()=>Object(l.b)("div",{css:W,className:"gymProgram"},Object(l.b)(G,null),Object(l.b)(D,null),Object(l.b)(B,null),Object(l.b)(x,null,Object(l.b)(Z,{title:"Basic Fitness",desc:"Please do not re-distribute this template ZIP file on any template collection website. This is not allowed."}),Object(l.b)(Z,{title:"Advanced Muscle Course",desc:"You may want to browse through Digital Marketing or Corporate HTML CSS templates on our website."}),Object(l.b)(Z,{title:"New Gym Training",desc:"If you wish to support TemplateMo website via PayPal, please feel free to contact us. We appreciate it a lot."}),Object(l.b)(Z,{title:"Yoga Training",desc:"This template is built on Bootstrap v4.3.1 framework. It is easy to adapt the columns and sections."}),Object(l.b)(Z,{title:"Basic Muscle Course",desc:"Credit goes to Pexels website for images and video background used in this HTML template."}),Object(l.b)(Z,{title:"Body Building Course",desc:"Suspendisse fringilla et nisi et mattis. Curabitur sed finibus nisi. Integer nibh sapien, vehicula et auctor."}))),F=i(9),H=i.n(F);const P=l.a`
+`;var F=()=>Object(l.b)("div",{css:W,className:"gymProgram"},Object(l.b)(G,null),Object(l.b)(D,null),Object(l.b)(B,null),Object(l.b)(x,null,Object(l.b)(Z,{title:"Basic Fitness",desc:"Please do not re-distribute this template ZIP file on any template collection website. This is not allowed."}),Object(l.b)(Z,{title:"Advanced Muscle Course",desc:"You may want to browse through Digital Marketing or Corporate HTML CSS templates on our website."}),Object(l.b)(Z,{title:"New Gym Training",desc:"If you wish to support TemplateMo website via PayPal, please feel free to contact us. We appreciate it a lot."}),Object(l.b)(Z,{title:"Yoga Training",desc:"This template is built on Bootstrap v4.3.1 framework. It is easy to adapt the columns and sections."}),Object(l.b)(Z,{title:"Basic Muscle Course",desc:"Credit goes to Pexels website for images and video background used in this HTML template."}),Object(l.b)(Z,{title:"Body Building Course",desc:"Suspendisse fringilla et nisi et mattis. Curabitur sed finibus nisi. Integer nibh sapien, vehicula et auctor."}))),J=i(9),H=i.n(J);const P=l.a`
   width: 100%;
   padding: 120px 0;
   text-align: center;
@@ -626,7 +626,7 @@
       max-width: 900px;
     }
   }
-`;l.a`
+`;const Se=l.a`
   width: 100%;
   .container {
     max-width: 100%;
@@ -654,5 +654,5 @@
       align-items: center;
     }
   }
-`;var Se=()=>a.a.createElement("div",{className:"App"},a.a.createElement(E,null),a.a.createElement(J,null),a.a.createElement(L,null),a.a.createElement(re,null),a.a.createElement(we,null),a.a.createElement(ke,null));Boolean("localhost"===window.location.hostname||"[::1]"===window.location.hostname||window.location.hostname.match(/^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/));s.a.render(a.a.createElement(a.a.StrictMode,null,a.a.createElement(Se,null)),document.getElementById("root")),"serviceWorker"in navigator&&navigator.serviceWorker.ready.then(e=>{e.unregister()}).catch(e=>{console.error(e.message)})}],[[19,1,2]]]);
-//# sourceMappingURL=main.b2a14641.chunk.js.map
+`;var Ge=()=>Object(l.b)("section",{css:Se,className:"contact",id:"contact"},Object(l.b)(x,null),Object(l.b)("footer",null,Object(l.b)("p",null,"Copyright \xa9 \xa9 2025 Gabbar Fitness Club - Designed by"," ",Object(l.b)("a",{href:"https://www.instagram.com/rajnish_sharmaa",target:"_blank"},"Rajnish Sharma"))));var Qe=()=>a.a.createElement("div",{className:"App"},a.a.createElement(E,null),a.a.createElement(F,null),a.a.createElement(L,null),a.a.createElement(re,null),a.a.createElement(we,null),a.a.createElement(ke,null),a.a.createElement(Ge,null));Boolean("localhost"===window.location.hostname||"[::1]"===window.location.hostname||window.location.hostname.match(/^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/));s.a.render(a.a.createElement(a.a.StrictMode,null,a.a.createElement(Qe,null)),document.getElementById("root")),"serviceWorker"in navigator&&navigator.serviceWorker.ready.then(e=>{e.unregister()}).catch(e=>{console.error(e.message)})}],[[19,1,2]]]);
+//# sourceMappingURL=main.6684dea9.chunk.js.map

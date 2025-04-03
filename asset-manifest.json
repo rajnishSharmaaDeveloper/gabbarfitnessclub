@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gabbarfitnessclub/static/css/main.de31fb63.chunk.css",
-    "main.js": "/gabbarfitnessclub/static/js/main.b2a14641.chunk.js",
-    "main.js.map": "/gabbarfitnessclub/static/js/main.b2a14641.chunk.js.map",
+    "main.js": "/gabbarfitnessclub/static/js/main.6684dea9.chunk.js",
+    "main.js.map": "/gabbarfitnessclub/static/js/main.6684dea9.chunk.js.map",
     "runtime-main.js": "/gabbarfitnessclub/static/js/runtime-main.561724af.js",
     "runtime-main.js.map": "/gabbarfitnessclub/static/js/runtime-main.561724af.js.map",
     "static/js/2.4cbe7d39.chunk.js": "/gabbarfitnessclub/static/js/2.4cbe7d39.chunk.js",
     "static/js/2.4cbe7d39.chunk.js.map": "/gabbarfitnessclub/static/js/2.4cbe7d39.chunk.js.map",
     "index.html": "/gabbarfitnessclub/index.html",
-    "precache-manifest.bc5f262111b5c458ea5892c98cfb1e96.js": "/gabbarfitnessclub/precache-manifest.bc5f262111b5c458ea5892c98cfb1e96.js",
+    "precache-manifest.f75c3a196d293c5b6803942abb8f32a1.js": "/gabbarfitnessclub/precache-manifest.f75c3a196d293c5b6803942abb8f32a1.js",
     "service-worker.js": "/gabbarfitnessclub/service-worker.js",
     "static/css/main.de31fb63.chunk.css.map": "/gabbarfitnessclub/static/css/main.de31fb63.chunk.css.map",
     "static/js/2.4cbe7d39.chunk.js.LICENSE.txt": "/gabbarfitnessclub/static/js/2.4cbe7d39.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.561724af.js",
     "static/js/2.4cbe7d39.chunk.js",
     "static/css/main.de31fb63.chunk.css",
-    "static/js/main.b2a14641.chunk.js"
+    "static/js/main.6684dea9.chunk.js"
   ]
 }
