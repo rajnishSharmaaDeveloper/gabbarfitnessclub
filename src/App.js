@@ -16,7 +16,7 @@ const App = () => (
     <Classes />
     <Schedule />
     <Trainers />
-    {/* <Contact /> */}
+    <Contact />
   </div>
 );
 
