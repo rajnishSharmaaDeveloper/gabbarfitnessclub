@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gabbarfitnessclub/static/css/main.de31fb63.chunk.css",
-    "main.js": "/gabbarfitnessclub/static/js/main.6684dea9.chunk.js",
-    "main.js.map": "/gabbarfitnessclub/static/js/main.6684dea9.chunk.js.map",
+    "main.js": "/gabbarfitnessclub/static/js/main.fb398df7.chunk.js",
+    "main.js.map": "/gabbarfitnessclub/static/js/main.fb398df7.chunk.js.map",
     "runtime-main.js": "/gabbarfitnessclub/static/js/runtime-main.561724af.js",
     "runtime-main.js.map": "/gabbarfitnessclub/static/js/runtime-main.561724af.js.map",
     "static/js/2.4cbe7d39.chunk.js": "/gabbarfitnessclub/static/js/2.4cbe7d39.chunk.js",
     "static/js/2.4cbe7d39.chunk.js.map": "/gabbarfitnessclub/static/js/2.4cbe7d39.chunk.js.map",
     "index.html": "/gabbarfitnessclub/index.html",
-    "precache-manifest.f75c3a196d293c5b6803942abb8f32a1.js": "/gabbarfitnessclub/precache-manifest.f75c3a196d293c5b6803942abb8f32a1.js",
+    "precache-manifest.0841db9c95179e24fac7436bf08b30b3.js": "/gabbarfitnessclub/precache-manifest.0841db9c95179e24fac7436bf08b30b3.js",
     "service-worker.js": "/gabbarfitnessclub/service-worker.js",
     "static/css/main.de31fb63.chunk.css.map": "/gabbarfitnessclub/static/css/main.de31fb63.chunk.css.map",
     "static/js/2.4cbe7d39.chunk.js.LICENSE.txt": "/gabbarfitnessclub/static/js/2.4cbe7d39.chunk.js.LICENSE.txt",
@@ -20,7 +20,7 @@
     "static/media/contactBg.jpg": "/gabbarfitnessclub/static/media/contactBg.31cb05f3.jpg",
     "static/media/gymOverlayBg.jpg": "/gabbarfitnessclub/static/media/gymOverlayBg.f042c2ac.jpg",
     "static/media/scheduleBg.jpg": "/gabbarfitnessclub/static/media/scheduleBg.02e36482.jpg",
-    "static/media/trainerOne.jpg": "/gabbarfitnessclub/static/media/trainerOne.7c2ab25d.jpg",
+    "static/media/trainerOne.jpg": "/gabbarfitnessclub/static/media/trainerOne.d7690bf9.jpg",
     "static/media/trainerThree.jpg": "/gabbarfitnessclub/static/media/trainerThree.81e56a6d.jpg",
     "static/media/trainerTwo.jpg": "/gabbarfitnessclub/static/media/trainerTwo.db6c1644.jpg"
   },
@@ -28,6 +28,6 @@
     "static/js/runtime-main.561724af.js",
     "static/js/2.4cbe7d39.chunk.js",
     "static/css/main.de31fb63.chunk.css",
-    "static/js/main.6684dea9.chunk.js"
+    "static/js/main.fb398df7.chunk.js"
   ]
 }

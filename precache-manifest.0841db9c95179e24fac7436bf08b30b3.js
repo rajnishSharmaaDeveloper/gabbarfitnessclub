@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "253c610c993258dea60f457798f03eef",
+    "revision": "a610345ca7aa0bebd1b4d013d5a8e7c7",
     "url": "/gabbarfitnessclub/index.html"
   },
   {
-    "revision": "cb31200ca451c1bdbc08",
+    "revision": "5f48324e1579eb45fec4",
     "url": "/gabbarfitnessclub/static/css/main.de31fb63.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gabbarfitnessclub/static/js/2.4cbe7d39.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cb31200ca451c1bdbc08",
-    "url": "/gabbarfitnessclub/static/js/main.6684dea9.chunk.js"
+    "revision": "5f48324e1579eb45fec4",
+    "url": "/gabbarfitnessclub/static/js/main.fb398df7.chunk.js"
   },
   {
     "revision": "ae1c425ce5dbe13f643b",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gabbarfitnessclub/static/media/scheduleBg.02e36482.jpg"
   },
   {
-    "revision": "7c2ab25d46f7a6f96ce234d934f56a80",
-    "url": "/gabbarfitnessclub/static/media/trainerOne.7c2ab25d.jpg"
+    "revision": "d7690bf900434eae8ce2604beca4d2b7",
+    "url": "/gabbarfitnessclub/static/media/trainerOne.d7690bf9.jpg"
   },
   {
     "revision": "81e56a6dd10134e1affed0e5f247541f",
