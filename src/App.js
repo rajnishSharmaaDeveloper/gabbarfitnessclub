@@ -7,6 +7,7 @@ import Classes from "./components/OurClasses/Classes";
 import Schedule from "./components/Schedule/Schedule";
 import Trainers from "./components/Trainers/Trainers";
 import Contact from './components/Contact/Contact';
+import Gallery from "./components/Gallery/Gallery"
 
 const App = () => (
   <div className="App">
@@ -16,6 +17,7 @@ const App = () => (
     <Classes />
     <Schedule />
     <Trainers />
+    <Gallery/>
     <Contact />
   </div>
 );
