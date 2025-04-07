@@ -10,6 +10,7 @@ const LinksContainer = ({ hidden }) => {
       <Link name="HOME" linkTo="#home" />
       <Link name="ABOUT" linkTo="#trainers" />
       <Link name="CLASSES" linkTo="#ourClasses" />
+      <Link name="GALLERY" linkTo="#ourGallery" />
       <Link name="SCHEDULES" linkTo="#schedule" />
       <Link name="CONTACT" linkTo="#contact" />
       <Button text="SIGN UP" />
