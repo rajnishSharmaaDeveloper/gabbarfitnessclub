@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8528675408230464d6eeb44a4e4675e8",
+    "revision": "1ad502258338555bf1e9c4772b972c20",
     "url": "/gabbarfitnessclub/index.html"
   },
   {
-    "revision": "e72d771458ef842aa281",
+    "revision": "ec171bc6818f53e11681",
     "url": "/gabbarfitnessclub/static/css/main.de31fb63.chunk.css"
   },
   {
-    "revision": "d4c5e39b8a533c160f7d",
-    "url": "/gabbarfitnessclub/static/js/2.6fe79ea3.chunk.js"
+    "revision": "48760835703c4831deb9",
+    "url": "/gabbarfitnessclub/static/js/2.a7f2c943.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/gabbarfitnessclub/static/js/2.6fe79ea3.chunk.js.LICENSE.txt"
+    "url": "/gabbarfitnessclub/static/js/2.a7f2c943.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e72d771458ef842aa281",
-    "url": "/gabbarfitnessclub/static/js/main.7103232c.chunk.js"
+    "revision": "ec171bc6818f53e11681",
+    "url": "/gabbarfitnessclub/static/js/main.0a3df7f0.chunk.js"
   },
   {
     "revision": "ae1c425ce5dbe13f643b",
@@ -52,6 +52,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gabbarfitnessclub/static/media/gabbar1.4b70b738.jpeg"
   },
   {
+    "revision": "d7aed30da3e940185435a885fae11d23",
+    "url": "/gabbarfitnessclub/static/media/gabbar10.d7aed30d.jpeg"
+  },
+  {
+    "revision": "3207874fabfcc40ea7fe20576e7e97ec",
+    "url": "/gabbarfitnessclub/static/media/gabbar11.3207874f.jpeg"
+  },
+  {
     "revision": "d61025d648ff353c7a97fec7b6b93515",
     "url": "/gabbarfitnessclub/static/media/gabbar2.d61025d6.jpg"
   },
@@ -74,6 +82,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1f43e0ff360525bfa18686398f822ab6",
     "url": "/gabbarfitnessclub/static/media/gabbar7.1f43e0ff.jpg"
+  },
+  {
+    "revision": "220a9cd77bad440e41b82789ca9aafcc",
+    "url": "/gabbarfitnessclub/static/media/gabbar8.220a9cd7.jpeg"
+  },
+  {
+    "revision": "390f066358dd84b6aecdddb56dc7c5d4",
+    "url": "/gabbarfitnessclub/static/media/gabbar9.390f0663.jpeg"
   },
   {
     "revision": "f042c2ac7fe16211f6c2806e04fdebad",

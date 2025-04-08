@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/gabbarfitnessclub/static/css/main.de31fb63.chunk.css",
-    "main.js": "/gabbarfitnessclub/static/js/main.7103232c.chunk.js",
-    "main.js.map": "/gabbarfitnessclub/static/js/main.7103232c.chunk.js.map",
+    "main.js": "/gabbarfitnessclub/static/js/main.0a3df7f0.chunk.js",
+    "main.js.map": "/gabbarfitnessclub/static/js/main.0a3df7f0.chunk.js.map",
     "runtime-main.js": "/gabbarfitnessclub/static/js/runtime-main.561724af.js",
     "runtime-main.js.map": "/gabbarfitnessclub/static/js/runtime-main.561724af.js.map",
-    "static/js/2.6fe79ea3.chunk.js": "/gabbarfitnessclub/static/js/2.6fe79ea3.chunk.js",
-    "static/js/2.6fe79ea3.chunk.js.map": "/gabbarfitnessclub/static/js/2.6fe79ea3.chunk.js.map",
+    "static/js/2.a7f2c943.chunk.js": "/gabbarfitnessclub/static/js/2.a7f2c943.chunk.js",
+    "static/js/2.a7f2c943.chunk.js.map": "/gabbarfitnessclub/static/js/2.a7f2c943.chunk.js.map",
     "index.html": "/gabbarfitnessclub/index.html",
-    "precache-manifest.961f43ff9d3f07b5c899dee81a962781.js": "/gabbarfitnessclub/precache-manifest.961f43ff9d3f07b5c899dee81a962781.js",
+    "precache-manifest.9862b61f10a7cf7c891bdc5a895c025d.js": "/gabbarfitnessclub/precache-manifest.9862b61f10a7cf7c891bdc5a895c025d.js",
     "service-worker.js": "/gabbarfitnessclub/service-worker.js",
     "static/css/main.de31fb63.chunk.css.map": "/gabbarfitnessclub/static/css/main.de31fb63.chunk.css.map",
-    "static/js/2.6fe79ea3.chunk.js.LICENSE.txt": "/gabbarfitnessclub/static/js/2.6fe79ea3.chunk.js.LICENSE.txt",
+    "static/js/2.a7f2c943.chunk.js.LICENSE.txt": "/gabbarfitnessclub/static/js/2.a7f2c943.chunk.js.LICENSE.txt",
     "static/media/bgVideo.mp4": "/gabbarfitnessclub/static/media/bgVideo.ae250877.mp4",
     "static/media/classFour.jpg": "/gabbarfitnessclub/static/media/classFour.dd1df8f4.jpg",
     "static/media/classOne.jpg": "/gabbarfitnessclub/static/media/classOne.5a6c841c.jpg",
@@ -19,12 +19,16 @@
     "static/media/classTwo.jpg": "/gabbarfitnessclub/static/media/classTwo.a6ebee97.jpg",
     "static/media/contactBg.jpg": "/gabbarfitnessclub/static/media/contactBg.31cb05f3.jpg",
     "static/media/gabbar1.jpeg": "/gabbarfitnessclub/static/media/gabbar1.4b70b738.jpeg",
+    "static/media/gabbar10.jpeg": "/gabbarfitnessclub/static/media/gabbar10.d7aed30d.jpeg",
+    "static/media/gabbar11.jpeg": "/gabbarfitnessclub/static/media/gabbar11.3207874f.jpeg",
     "static/media/gabbar2.jpg": "/gabbarfitnessclub/static/media/gabbar2.d61025d6.jpg",
     "static/media/gabbar3.jpg": "/gabbarfitnessclub/static/media/gabbar3.9dbc91bd.jpg",
     "static/media/gabbar4.jpg": "/gabbarfitnessclub/static/media/gabbar4.537842e2.jpg",
     "static/media/gabbar5.jpg": "/gabbarfitnessclub/static/media/gabbar5.3f12c20d.jpg",
     "static/media/gabbar6.jpg": "/gabbarfitnessclub/static/media/gabbar6.492ac7e6.jpg",
     "static/media/gabbar7.jpg": "/gabbarfitnessclub/static/media/gabbar7.1f43e0ff.jpg",
+    "static/media/gabbar8.jpeg": "/gabbarfitnessclub/static/media/gabbar8.220a9cd7.jpeg",
+    "static/media/gabbar9.jpeg": "/gabbarfitnessclub/static/media/gabbar9.390f0663.jpeg",
     "static/media/gymOverlayBg.jpg": "/gabbarfitnessclub/static/media/gymOverlayBg.f042c2ac.jpg",
     "static/media/scheduleBg.jpg": "/gabbarfitnessclub/static/media/scheduleBg.02e36482.jpg",
     "static/media/trainerOne.jpg": "/gabbarfitnessclub/static/media/trainerOne.d7690bf9.jpg",
@@ -33,8 +37,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.561724af.js",
-    "static/js/2.6fe79ea3.chunk.js",
+    "static/js/2.a7f2c943.chunk.js",
     "static/css/main.de31fb63.chunk.css",
-    "static/js/main.7103232c.chunk.js"
+    "static/js/main.0a3df7f0.chunk.js"
   ]
 }
