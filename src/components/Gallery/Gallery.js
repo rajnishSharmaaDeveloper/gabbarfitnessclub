@@ -12,6 +12,10 @@ import gabbar4 from "../Image/gabbar4.jpg"
 import gabbar5 from "../Image/gabbar5.jpg"
 import gabbar6 from "../Image/gabbar6.jpg"
 import gabbar7 from "../Image/gabbar7.jpg"
+import gabbar8 from "../Image/gabbar8.jpg"
+import gabbar9 from "../Image/gabbar9.jpg"
+import gabbar10 from "../Image/gabbar10.jpg"
+import gabbar11 from "../Image/gabbar11.jpg"
 
 const Gallery = () => (
   <section css={styles} className="trainers" id="ourGallery">
@@ -53,7 +57,22 @@ const Gallery = () => (
 
     <Container>
       <TrainerCard
+        img={gabbar8}
+      />
+      <TrainerCard
+        img={gabbar9}
+      />
+       <TrainerCard
+        img={gabbar10}
+      />
+    </Container>
+
+    <Container>
+      <TrainerCard
         img={gabbar5}
+      />
+       <TrainerCard
+        img={gabbar11}
       />
       <TrainerCard
         img={gabbar6}
