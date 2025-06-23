@@ -51,8 +51,9 @@ const Contact = () => (
           <div className="footerHrsAndSocial">
             <div className="footerHours">
               <h3>Opening Hours</h3>
-              <p>Monday - Friday: 6:00 AM - 10:00 PM</p>
-              <p>Saturday - Sunday: 7:00 AM - 9:00 PM</p>
+              <p>Monday - Friday: Morning 6:00 AM - 10:00 AM</p>
+              <p>Monday - Friday: Evening 05:00 PM - 10:00 PM</p>
+              <p>Sunday: Closed</p>
             </div>
             <div className="socialLinksContainer">
               <h3>Follow Us</h3>
