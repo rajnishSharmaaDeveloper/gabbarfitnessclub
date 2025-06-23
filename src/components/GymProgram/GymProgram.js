@@ -14,28 +14,28 @@ const GymProgram = () => (
     <GymSubtitle />
     <Container>
       <GymProgramCard
-        title="Basic Fitness"
-        desc="Please do not re-distribute this template ZIP file on any template collection website. This is not allowed."
+        title="🏋️‍♂️ Strength Training"
+        desc="Focuses on building muscle mass, improving strength, and toning your body using free weights, machines, and compound exercises like squats, bench press, and deadlifts."
       />
       <GymProgramCard
-        title="Advanced Muscle Course"
-        desc="You may want to browse through Digital Marketing or Corporate HTML CSS templates on our website."
+        title="⚖️ Weight Loss & Fat Burn Workouts"
+        desc="Includes cardio-based training like HIIT (High-Intensity Interval Training), circuits, and metabolic conditioning to help you burn fat efficiently while maintaining lean muscle."
       />
       <GymProgramCard
-        title="New Gym Training"
-        desc="If you wish to support TemplateMo website via PayPal, please feel free to contact us. We appreciate it a lot."
+        title="💃 Zumba & Aerobics"
+        desc="Fun, energetic group sessions that combine music and movement to burn calories, improve flexibility, and boost cardiovascular health — perfect for beginners and regulars alike."
       />
       <GymProgramCard
-        title="Yoga Training"
-        desc="This template is built on Bootstrap v4.3.1 framework. It is easy to adapt the columns and sections."
+        title="🏃 Functional Training"
+        desc="Improves mobility, posture, and body control using real-life movement-based exercises — ideal for athletes and everyday fitness."
       />
       <GymProgramCard
-        title="Basic Muscle Course"
-        desc="Credit goes to Pexels website for images and video background used in this HTML template."
+        title="👥 Group Classes"
+        desc="Motivating, community-driven workouts that keep you accountable and energized. Includes bodyweight training, core sessions, and boot camps."
       />
       <GymProgramCard
-        title="Body Building Course"
-        desc="Suspendisse fringilla et nisi et mattis. Curabitur sed finibus nisi. Integer nibh sapien, vehicula et auctor."
+        title="👤 Personal Training"
+        desc="One-on-one coaching with certified trainers who tailor your workouts based on your body type, fitness level, and goals — with regular progress tracking."
       />
     </Container>
   </div>

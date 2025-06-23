@@ -21,20 +21,20 @@ const Trainers = () => (
     </p>
     <Container>
       <TrainerCard
-        title="Strength Trainer"
-        name="Amit Sir"
-        desc="Every rep, every set, every step you take is a step closer to the best version of yourself. Trust the process, stay committed, and together, we’ll unlock your true potential."
+        title="Founder"
+        name="Amit Kumar Mourya"
+        desc="Amit Kumar Mourya – Founder, Gabbar Fitness Club With over 6 years of hands-on experience in the fitness industry, I’ve dedicated my career to helping people achieve their health and fitness goals. As a certified trainer and gym owner, I specialize in body transformation, strength training, and personalized fitness coaching. My passion is guiding individuals to become stronger—both physically and mentally—through discipline, consistency, and the right training approach."
         img={TrainerOneBg}
       />
       <TrainerCard
         title="Muscle Trainer"
-        name="Arun Sir"
+        name="Arun Sharma"
         desc="Your journey is unique, and with every challenge, you're growing stronger. Keep pushing, stay focused, and never forget that progress is made one day at a time."
         img={TrainerTwoBg}
       />
       <TrainerCard
         title="Power Trainer"
-        name="Shilpi Ma'am"
+        name="Shilpi Mourya"
         desc="Success is earned through dedication, persistence, and hard work. Trust the grind, embrace the sweat, and let’s turn those goals into achievements."
         img={TrainerThreeBg}
       />

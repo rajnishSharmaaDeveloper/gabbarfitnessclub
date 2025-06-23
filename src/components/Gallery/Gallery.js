@@ -67,7 +67,7 @@ const Gallery = () => (
       />
     </Container>
 
-    <Container>
+    {/* <Container>
       <TrainerCard
         img={gabbar5}
       />
@@ -77,7 +77,7 @@ const Gallery = () => (
       <TrainerCard
         img={gabbar6}
       />
-    </Container>
+    </Container> */}
 
 
   </section>
