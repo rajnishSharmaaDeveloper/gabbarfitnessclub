@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gabbarfitnessclub/precache-manifest.b2fabc315d7b7fecbd6998315af7ee0a.js"
+  "/gabbarfitnessclub/precache-manifest.d0808796c28d568af048242f58c53b22.js"
 );
 
 self.addEventListener('message', (event) => {

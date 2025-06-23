@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fcc6c9dab332da508e62443955fcaa0e",
+    "revision": "e36d664502d7be7be8a1c1c2c23f100c",
     "url": "/gabbarfitnessclub/index.html"
   },
   {
-    "revision": "6d398ee5f122c4e3d538",
+    "revision": "758b5651bbefcd7fd557",
     "url": "/gabbarfitnessclub/static/css/main.057a26d4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gabbarfitnessclub/static/js/2.aa07ceb9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6d398ee5f122c4e3d538",
-    "url": "/gabbarfitnessclub/static/js/main.d3230967.chunk.js"
+    "revision": "758b5651bbefcd7fd557",
+    "url": "/gabbarfitnessclub/static/js/main.d2e09096.chunk.js"
   },
   {
     "revision": "ae1c425ce5dbe13f643b",
