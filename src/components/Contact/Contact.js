@@ -12,6 +12,7 @@ const Contact = () => (
       <Form />
     </Container>
     <footer>
+      {/* ///flmkfm */}
       <div className="footerContent">
         <div className="footerAbout">
           <h3>About Us – Gabbar Fitness Club</h3>
