@@ -1,169 +1,359 @@
 /** @jsx jsx */
-import { jsx, css } from "@emotion/core";
 import React from "react";
+import { jsx, css } from "@emotion/core";
 import Container from "../GlobalComponents/Container";
 import Map from "./Map";
 import Form from "./Form";
+import { FaPhone, FaEnvelope, FaInstagramSquare, FaFacebookF, FaYoutubeSquare, FaMapMarked } from "react-icons/fa";
 
 const Contact = () => (
   <section css={styles} className="contact" id="contact">
     <Container>
-      {/* <Map /> */}
-      <Form />
+      <div className="contactContent">
+        <div className="formContainer">
+          <Form />
+        </div>
+        {/* <div className="mapContainer">
+          <Map />
+        </div> */}
+      </div>
     </Container>
     <footer>
       <div className="footerContent">
         <div className="footerAbout">
           <h3>About Us – Gabbar Fitness Club</h3>
           <p>
-            Welcome to Gabbar Fitness Club, your trusted destination for fitness, transformation, and motivation. Located in the heart of Gomti Nagar, Lucknow (1/181 Vijyant Khand), we are a unisex gym committed to helping people of all ages and fitness levels achieve their health goals.
-            Whether you want to lose weight, build muscle, tone your body, or boost your stamina, we provide the tools, training, and support to make it happen.
+            Welcome to Gabbar Fitness Club, your trusted destination for fitness, transformation, and motivation. Located in the heart of Gomti Nagar, Lucknow, we are a unisex gym committed to helping people of all ages and fitness levels achieve their health goals.
           </p>
-        </div>
-
-        <div className="footerRight">
-          <div className="footerAddress">
-            <h3>Gabbar Fitness Club</h3>
-            <p>1/181 Vijyant Khand</p>
-            <p>Gomti Nagar, Lucknow 226010</p>
-            <p>Email: info@gabbarfitness.com</p>
-            <p>Mobile: 9026361448 , 8707710311</p>
-          </div>
-          <div className="socialLinksContainer">
-            <h4>Follow Us</h4>
-            <div className="socialLinks">
-              <a href="https://www.instagram.com/gabbarfitnessclub" target="_blank" rel="noopener noreferrer">Instagram</a>
-              <a href="https://www.facebook.com/gabbarfitnessclub" target="_blank" rel="noopener noreferrer">Facebook</a>
-              <a href="https://www.youtube.com/@gabbarfitnessclub5508" target="_blank" rel="noopener noreferrer">YouTube</a>
+          <div className="achievements">
+            <div className="achievementItem">
+              <span className="achievementNumber">10+</span>
+              <span className="achievementText">Certified Trainers</span>
+            </div>
+            <div className="achievementItem">
+              <span className="achievementNumber">500+</span>
+              <span className="achievementText">Happy Members</span>
+            </div>
+            <div className="achievementItem">
+              <span className="achievementNumber">5+</span>
+              <span className="achievementText">Years Experience</span>
             </div>
           </div>
         </div>
+        <div className="footerRight">
+          <div className="footerAddress">
+            <h3>Gabbar Fitness Club</h3>
+            <p><FaMapMarked className="icon" /> 1/181 Vijyant Khand, Gomti Nagar, Lucknow 226010</p>
+            <p><FaEnvelope className="icon" /> info@gabbarfitness.com</p>
+            <p><FaPhone className="icon" /> 9026361448, 8707710311</p>
+          </div>
+          <div className="footerHrsAndSocial">
+            <div className="footerHours">
+              <h3>Opening Hours</h3>
+              <p>Monday - Friday: 6:00 AM - 10:00 PM</p>
+              <p>Saturday - Sunday: 7:00 AM - 9:00 PM</p>
+            </div>
+            <div className="socialLinksContainer">
+              <h3>Follow Us</h3>
+              <div className="socialLinks">
+                <a href="https://www.instagram.com/gabbarfitnessclub" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+                  <FaInstagramSquare className="socialIcon" />
+                </a>
+                <a href="https://www.facebook.com/gabbarfitnessclub" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+                  <FaFacebookF className="socialIcon" />
+                </a>
+                <a href="https://www.youtube.com/@gabbarfitnessclub5508" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
+                  <FaYoutubeSquare className="socialIcon" />
+                </a>
+              </div>
+            </div>
+          </div>
+
+        </div>
       </div>
-      <hr />
-      <p className="copyright">
-        © 2025 Gabbar Fitness Club — Designed by{" "}
-        <a href="https://www.instagram.com/rajnish_sharmaa" target="_blank" rel="noopener noreferrer">Rajnish Sharma</a>
-      </p>
+      <div className="footerBottom">
+        <hr />
+        <p className="copyright">
+          © {new Date().getFullYear()} Gabbar Fitness Club — All Rights Reserved | Designed by{" "}
+          <a href="https://www.instagram.com/rajnish_sharmaa" target="_blank" rel="noopener noreferrer">Rajnish Sharma</a>
+        </p>
+      </div>
     </footer>
   </section>
 );
 
 const styles = css`
   width: 100%;
+  background: #f9f9f9;
+  padding-bottom: 0;
+
   .container {
-    max-width: 100%;
+    max-width: 1200px;
+    padding: 60px 20px;
+  }
+
+  .contactContent {
     display: flex;
-   
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: space-between;
+  }
+
+  .formContainer {
+    flex: 1 1 400px;
+    background: #fff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+  }
+
+  .mapContainer {
+    flex: 1 1 400px;
+    min-height: 400px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
   }
 
   footer {
-    height: 50vh;
     background: #232d39;
     color: #fff;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding: 30px;
-    box-sizing: border-box;
+    padding: 60px 0 0;
 
     .footerContent {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px;
       display: flex;
-      justify-content: space-between;
       flex-wrap: wrap;
+      gap: 40px;
+      justify-content: space-between;
     }
 
     .footerAbout {
-      width: 50%;
-      min-width: 250px;
+      flex: 1 1 200px;
 
       h3 {
-        margin-bottom: 10px;
-        font-size: 20px;
+        margin-bottom: 20px;
+        font-size: 22px;
         color: #ed563b;
+        position: relative;
+        padding-bottom: 10px;
+
+        &::after {
+          content: '';
+          position: absolute;
+          left: 0;
+          bottom: 0;
+          width: 50px;
+          height: 2px;
+          background: #ed563b;
+        }
       }
 
       p {
-        font-size: 14px;
-        line-height: 1.5;
+        font-size: 15px;
+        line-height: 1.7;
+        color: #ddd;
+        margin-bottom: 20px;
+      }
+    }
+
+    .achievements {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+      margin-top: 20px;
+
+      .achievementItem {
+        background: rgba(237, 86, 59, 0.1);
+        padding: 10px 15px;
+        border-radius: 5px;
+        text-align: center;
+        flex: 1 1 100px;
+
+        .achievementNumber {
+          display: block;
+          font-size: 20px;
+          font-weight: 700;
+          color: #ed563b;
+        }
+
+        .achievementText {
+          display: block;
+          font-size: 12px;
+          color: #ddd;
+        }
       }
     }
 
     .footerRight {
-      width: 45%;
-      min-width: 250px;
+      flex: 1 1 400px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 30px;
 
-      .footerAddress h3 {
-        margin-bottom: 10px;
-        font-size: 20px;
+      > div {
+        flex: 1 1 150px;
+      }
+
+      h3 {
+        margin-bottom: 20px;
+        font-size: 22px;
         color: #ed563b;
+        position: relative;
+        padding-bottom: 10px;
+
+        &::after {
+          content: '';
+          position: absolute;
+          left: 0;
+          bottom: 0;
+          width: 50px;
+          height: 2px;
+          background: #ed563b;
+        }
       }
 
-      .footerAddress p {
-        margin: 5px 0;
-        font-size: 14px;
-      }
+      p {
+        margin: 10px 0;
+        font-size: 15px;
+        color: #ddd;
+        display: flex;
+        align-items: flex-start;
+        line-height: 1.6;
 
-      .socialLinksContainer h4 {
-        margin: 15px 0 10px;
-        font-size: 18px;
-        color: #ed563b;
-      }
-
-      .socialLinks a {
-        display: inline-block;
-        margin-right: 10px;
-        margin-bottom: 8px;
-        padding: 6px 12px;
-        background: #ed563b;
-        color: #fff;
-        text-decoration: none;
-        border-radius: 4px;
-        font-size: 14px;
-        transition: background 0.3s ease;
-      }
-
-      .socialLinks a:hover {
-        background: #ff7350;
+        .icon {
+          margin-right: 10px;
+          color: #ed563b;
+          margin-top: 3px;
+          flex-shrink: 0;
+        }
       }
     }
 
-    hr {
-      border: none;
-      height: 1px;
-      background: #444;
-      margin: 10px 0;
+    .footerHrsAndSocial{
+      display:flex;
+      flex-direction: column;
+      gap:1px;
+    }
+    .socialLinksContainer {
+      .socialLinks {
+        display: flex;
+        gap: 15px;
+        margin-top: 20px;
+
+        a {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 40px;
+          height: 40px;
+          background: rgba(237, 86, 59, 0.1);
+          color: #ed563b;
+          border-radius: 50%;
+          transition: all 0.3s ease;
+
+          &:hover {
+            background: #ed563b;
+            color: #fff;
+            transform: translateY(-3px);
+          }
+
+          .socialIcon {
+            font-size: 18px;
+          }
+        }
+      }
     }
 
-    .copyright {
-      text-align: center;
-      font-size: 13px;
-      color: #ccc;
-      a {
-        color: #ed563b;
-        text-decoration: none;
+    .footerBottom {
+      max-width: 1200px;
+      margin: 40px auto 0;
+      padding: 20px;
+
+      hr {
+        border: none;
+        height: 1px;
+        background: rgba(255, 255, 255, 0.1);
+        margin: 20px 0;
       }
-      a:hover {
-        color: #ff7350;
+
+      .copyright {
+        text-align: center;
+        font-size: 14px;
+        color: #aaa;
+
+        a {
+          color: #ed563b;
+          text-decoration: none;
+          transition: color 0.3s ease;
+        }
+
+        a:hover {
+          color: #ff7350;
+        }
+      }
+    }
+  }
+
+  @media (max-width: 992px) {
+    .container {
+      padding: 40px 20px;
+    }
+
+    footer {
+      .footerContent {
+        gap: 30px;
       }
     }
   }
 
   @media (max-width: 768px) {
-    footer {
-      padding: 20px;
-      height: auto;
-    }
-    .footerContent {
+    .contactContent {
       flex-direction: column;
-      align-items: center;
-      text-align: center;
     }
-    .footerAbout, .footerRight {
-      width: 100%;
-      margin-bottom: 20px;
+
+    .formContainer,
+    .mapContainer {
+      flex: 1 1 100%;
     }
-    .socialLinks a {
-      margin: 5px;
+
+    footer {
+      .footerContent {
+        flex-direction: column;
+      }
+
+      .footerAbout,
+      .footerRight {
+        flex: 1 1 100%;
+      }
+
+      .footerRight {
+        flex-direction: column;
+      }
+    }
+  }
+
+  @media (max-width: 480px) {
+    .formContainer {
+      padding: 30px 20px;
+    }
+
+    footer {
+      padding: 40px 0 0;
+
+      .footerContent {
+        padding: 0 15px;
+      }
+
+      .achievements {
+        justify-content: center;
+      }
+
+      .footerBottom {
+        padding: 20px 15px;
+      }
     }
   }
 `;
