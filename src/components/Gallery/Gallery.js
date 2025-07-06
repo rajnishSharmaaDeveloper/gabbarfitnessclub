@@ -106,7 +106,7 @@ const styles = css`
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 50px 0 0 0;
+    padding: 10px 0 0 0;
   }
   @media (max-width: 650px) {
     > p {

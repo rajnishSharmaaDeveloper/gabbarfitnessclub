@@ -15,7 +15,7 @@ const styles = css`
   width: 100%;
   max-width: 31%;
   background: #fff;
-  padding: 44px;
+  // padding: 20px;
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
   text-align: left;
   border-radius: 4px;
