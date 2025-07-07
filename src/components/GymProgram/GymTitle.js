@@ -4,7 +4,7 @@ import React from "react";
 
 const GymTitle = () => (
   <h2 css={styles}>
-    CHOOSE <span>PROGRAM</span>
+    CHOOSE <span>CLASSES</span>
   </h2>
 );
 
